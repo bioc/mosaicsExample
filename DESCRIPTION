@@ -1,0 +1,15 @@
+Package: mosaicsExample
+Type: Package
+Title: Example data for the mosaics package, which implements MOSAiCS, a statistical framework to analyze one-sample or two-sample ChIP-seq data
+Version: 0.99.2
+Depends: R (>= 2.11.1)
+Suggests: mosaics
+Date: 2011-03-08
+Author: Dongjun Chung, Pei Fen Kuan, Sunduz Keles
+Maintainer: Dongjun Chung <chungdon@stat.wisc.edu>
+Description: Data for the mosaics package, consisting of chromosome 21 ChIP and control sample data from a ChIP-seq experiment of STAT1 binding, with mappability, GC content, and sequence ambiguity scores of human genome HG18.
+License: GPL (>= 2)
+URL: http://groups.google.com/group/mosaics_user_group
+LazyLoad: yes
+biocViews: ExperimentData, ChIPseqData, Homo_sapiens
+
