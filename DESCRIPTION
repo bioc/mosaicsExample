@@ -3,7 +3,6 @@ Type: Package
 Title: Example data for the mosaics package, which implements MOSAiCS, a statistical framework to analyze one-sample or two-sample ChIP-seq data
 Version: 0.99.2
 Depends: R (>= 2.11.1)
-Suggests: mosaics
 Date: 2011-03-08
 Author: Dongjun Chung, Pei Fen Kuan, Sunduz Keles
 Maintainer: Dongjun Chung <chungdon@stat.wisc.edu>
